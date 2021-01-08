@@ -3,5 +3,6 @@ public class Main {
         System.out.println("Base application");
 
         new Feature2();
+        new Feature1();
     }
 }
